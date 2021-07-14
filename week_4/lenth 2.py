@@ -1,0 +1,7 @@
+x = int(input())
+y = int(input())
+a = int(input())
+b = int(input())
+m = int(input())
+n = int(input())
+print(((x - a) ** 2 +  (y - b) ** 2) ** 0.5)
